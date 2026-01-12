@@ -94,3 +94,5 @@ This dashboard delivers actionable insights that can be directly applied to busi
 . Supports data-driven pricing and market positioning decisions
 Overall, the dashboard transforms raw Airbnb data into clear, decision-ready insights that improve strategic planning and operational efficiency.
 
+https://github.com/Eshu1904/AirBnB_Dashboard/blob/main/AirBnB%20Dashboard.png
+
