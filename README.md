@@ -95,6 +95,8 @@ This dashboard delivers actionable insights that can be directly applied to busi
 Overall, the dashboard transforms raw Airbnb data into clear, decision-ready insights that improve strategic planning and operational efficiency.
 
 
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Bashboard Published link: https://public.tableau.com/app/profile/eshwar.kumar.prakash/viz/AirBnBFullproject_17682412499960/Dashboard1?publish=yes
+
+Snapshot of the dashboard. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/Eshu1904/AirBnB_Dashboard/blob/main/AirBnB%20Dashboard.png)
 
